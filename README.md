@@ -1,5 +1,5 @@
 ![Demo](./assets/juangifpresentation.gif)
-1
+Contributions may vary depending on date.
 On progress readme file. <br>
 
 
