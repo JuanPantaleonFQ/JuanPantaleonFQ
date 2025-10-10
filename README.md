@@ -1,5 +1,5 @@
 ![Demo](./assets/juangifpresentation.gif)
-Contributions may vary depending on date.
+Day 12 of cybersecuring everyday until I secure everyone
 On progress readme file. <br>
 
 
