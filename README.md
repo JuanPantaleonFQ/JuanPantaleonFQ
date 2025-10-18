@@ -1,5 +1,5 @@
 ![Demo](./assets/juangifpresentation.gif)
-Day 2 of cybersecuring everyday until I secure everyone
+Day 3 of cybersecuring everyday until I secure everyone
 On progress readme file. <br>
 
 
