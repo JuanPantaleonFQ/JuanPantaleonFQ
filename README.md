@@ -1,6 +1,6 @@
 ![Demo](./assets/juangifpresentation.gif)
 
-Day 26/31 of cybersecuring everyday.
+Day 27 of cybersecuring everyday.
 
 On progress readme file. <br>
 
