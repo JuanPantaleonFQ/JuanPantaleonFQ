@@ -16,4 +16,4 @@ On progress readme file. <br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juanpantaleonfq&show_icons=true&locale=en" alt="juanpantaleonfq" /></p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=JuanPantaleonFQ)](https://git.io/streak-stats)
