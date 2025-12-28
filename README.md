@@ -12,8 +12,6 @@ All of my projects are available at https://juanfemeniaquevedo.dev
 
 ### GitHub Statistics
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=JuanPantaleonFQ)](https://git.io/streak-stats)
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=juanpantaleonfq&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
