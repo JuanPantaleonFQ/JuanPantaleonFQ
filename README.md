@@ -1,6 +1,6 @@
 ![Demo](./assets/juangifpresentation.gif)
 
-Day 6 of 2026 cybersecuring everyday..
+Day 7 of 2026 cybersecuring everyday..
 
 On progress README file.
 
