@@ -9,7 +9,7 @@ On progress README file.
 All of my projects are available at https://juanfemeniaquevedo.dev
 
 # 💫 About Me:
-🔭 I’m currently working on: Edugenia<br>👯 I’m looking to collaborate on: IA researching <br>
+🔭 I’m currently working on: Edugenia<br>👯 I’m looking to collaborate on: AI researching <br>
 
 
 # 💻 Tech Stack:
