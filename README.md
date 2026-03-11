@@ -1,3 +1,4 @@
+👋 Hello there!
 ![Demo](./assets/juangifpresentation.gif)
 
 <!-- Snake Animation -->
