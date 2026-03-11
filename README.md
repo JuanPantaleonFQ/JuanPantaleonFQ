@@ -1,14 +1,28 @@
 ![Demo](./assets/juangifpresentation.gif)
 
-Day 60 of 2026 cybersecuring everyday....
+<!-- Snake Animation -->
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/JuanPantaleonFQ/JuanPantaleonFQ/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/JuanPantaleonFQ/JuanPantaleonFQ/output/github-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/JuanPantaleonFQ/JuanPantaleonFQ/output/github-snake.svg"
+  />
+</picture>
 
-On progress README file.
+
+Day 60:  👋 Hi ! I’m currently working on: Edugenia <br> I’m looking to collaborate on: AI researching <br>
+
+
 
 
 All of my projects are available at https://juanfemeniaquevedo.dev
-
-#  About Me:
- 👋 Hi ! I’m currently working on: Edugenia<br> I’m looking to collaborate on: AI researching <br>
 
 
 # Tech Stack:
@@ -25,18 +39,3 @@ All of my projects are available at https://juanfemeniaquevedo.dev
 ---
 [![](https://visitcount.itsvg.in/api?id=JuanPantaleonFQ&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Snake Animation -->
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/JuanPantaleonFQ/JuanPantaleonFQ/output/github-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/JuanPantaleonFQ/JuanPantaleonFQ/output/github-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/JuanPantaleonFQ/JuanPantaleonFQ/output/github-snake.svg"
-  />
-</picture>
