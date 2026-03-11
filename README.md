@@ -25,4 +25,18 @@ All of my projects are available at https://juanfemeniaquevedo.dev
 ---
 [![](https://visitcount.itsvg.in/api?id=JuanPantaleonFQ&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!---->
+<!-- Snake Animation -->
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/JuanPantaleonFQ/JuanPantaleonFQ/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/JuanPantaleonFQ/JuanPantaleonFQ/output/github-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/JuanPantaleonFQ/JuanPantaleonFQ/output/github-snake.svg"
+  />
+</picture>
