@@ -18,7 +18,7 @@
 </picture>
 
 
-Day 60:  👋 Hi ! I’m currently working on: Edugenia <br> I’m looking to collaborate on: AI researching <br>
+Day 62:  👋 Hi ! I’m currently working on: Edugenia <br> I’m looking to collaborate on: AI researching <br>
 
 
 
