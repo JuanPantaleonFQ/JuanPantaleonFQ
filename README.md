@@ -18,7 +18,7 @@
 </picture>
 
 
-Day 64:  👋 Hi ! I’m currently working on: Edugenia <br> I’m looking to collaborate on: AI researching <br>
+Day 66:  👋 Hi ! I’m currently working on: Edugenia <br> I’m looking to collaborate on: AI researching <br>
 
 
 
