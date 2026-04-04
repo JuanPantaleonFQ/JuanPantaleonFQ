@@ -18,7 +18,7 @@
 </picture>
 
 
-Day 77:  👋 Hi! I’m currently working on: Edugenia <br> I’m looking to collaborate on: AI researching <br>
+Day 78:  👋 Hi! I’m currently working on: Edugenia <br> I’m looking to collaborate on: AI researching <br>
 
 
 
