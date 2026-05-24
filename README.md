@@ -18,7 +18,7 @@
 </picture>
 
 
-Day 127:  👋 Hi! I’m currently working on: Edugenia <br> I’m looking to collaborate on: AI researching & RAG <br>
+Day 128:  👋 Hi! I’m currently working on: Edugenia <br> I’m looking to collaborate on: AI researching & RAG <br>
 
 
 
