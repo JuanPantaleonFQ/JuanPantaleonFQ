@@ -18,7 +18,7 @@
 </picture>
 
 
-Day 136:  👋 Hi! I’m currently working on: Edugenia <br> I’m looking to collaborate on: AI researching & RAG <br>
+Day 138:  👋 Hi! I’m currently working on: Edugenia <br> I’m looking to collaborate on: AI researching & RAG <br>
 
 
 
