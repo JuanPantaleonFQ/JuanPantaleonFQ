@@ -7,7 +7,7 @@
 #   A. Author email MUST be the GitHub-verified address below.
 #   B. Commits MUST land on the default branch `main`.
 #
-# This script enforces both, then makes 3–47 harmless commits for TODAY.
+# This script enforces both, then makes 7–20 harmless commits for TODAY.
 
 set -euo pipefail
 
@@ -24,8 +24,8 @@ git config user.name  "$AUTHOR_NAME"
 # Requirement B: be on main
 git checkout "$BRANCH"
 
-# Random number of commits in [3, 47]
-N=$(( (RANDOM % 45) + 3 ))
+# Random number of commits in [7, 20]
+N=$(( (RANDOM % 14) + 7 ))
 TODAY=$(date +%Y-%m-%d)
 echo "Generating $N contribution commits for $TODAY on branch $BRANCH"
 

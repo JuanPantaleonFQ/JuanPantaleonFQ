@@ -12,7 +12,7 @@ Run the committed script:
 bash scripts/daily-contrib.sh
 ```
 
-It makes a random number of harmless commits (between **3 and 47**) for **today**,
+It makes a random number of harmless commits (between **7 and 20**) for **today**,
 each adding a tiny throwaway file under `data/`, then pushes them.
 
 ## Two hard requirements (miss either → ZERO green squares)
