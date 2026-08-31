@@ -1,10 +1,6 @@
 ![Demo](./assets/juangifpresentation.gif)
 
-Day 57 of 2026 cybersecuring everyday....
 
-On progress README file.
-
-<img src="https://tryhackme-badges.s3.amazonaws.com/juanfemeniaqueve.png" alt="TryHackMe Badge" />
 
 All of my projects are available at https://juanfemeniaquevedo.dev
 
