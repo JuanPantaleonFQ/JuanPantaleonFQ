@@ -12,8 +12,11 @@ Run the committed script:
 bash scripts/daily-contrib.sh
 ```
 
-It makes a random number of harmless commits (between **7 and 20**) for **today**,
-each adding a tiny throwaway file under `data/`, then pushes them.
+It first runs a **daily gate**: if the default branch already has at least one
+commit for today, it logs `already green today — skipping` and exits without
+committing (never "tops up" a day that already has activity). Otherwise it makes
+a random number of harmless commits (between **7 and 20**) for **today**, each
+adding a tiny throwaway file under `data/`, then pushes them.
 
 ## Two hard requirements (miss either → ZERO green squares)
 

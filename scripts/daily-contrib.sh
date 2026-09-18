@@ -24,6 +24,15 @@ git config user.name  "$AUTHOR_NAME"
 # Requirement B: be on main
 git checkout "$BRANCH"
 
+# Daily gate: only act if today would otherwise be empty on the default branch.
+# Never "top up" a day that already has activity.
+git fetch origin "$BRANCH"
+today_count=$(git log "origin/$BRANCH" --since="00:00" --until="now" --pretty=%H | wc -l)
+if [ "$today_count" -ge 1 ]; then
+  echo "already green today — skipping"
+  exit 0
+fi
+
 # Random number of commits in [7, 20]
 N=$(( (RANDOM % 14) + 7 ))
 TODAY=$(date +%Y-%m-%d)
